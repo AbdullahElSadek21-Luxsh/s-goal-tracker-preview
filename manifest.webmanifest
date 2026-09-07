@@ -1,0 +1,19 @@
+{
+  "name": "Strategic Goals Tracker",
+  "short_name": "Goals Tracker",
+  "description": "Track strategic goals, action items, weekly tasks, teams, and organisational performance.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0F172A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
